@@ -1,0 +1,13 @@
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\bin\Debug\netcoreapp3.1\Mario Kart Item Box.exe
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\bin\Debug\netcoreapp3.1\Mario Kart Item Box.deps.json
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\bin\Debug\netcoreapp3.1\Mario Kart Item Box.runtimeconfig.json
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\bin\Debug\netcoreapp3.1\Mario Kart Item Box.runtimeconfig.dev.json
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\bin\Debug\netcoreapp3.1\Mario Kart Item Box.dll
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\bin\Debug\netcoreapp3.1\Mario Kart Item Box.pdb
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\obj\Debug\netcoreapp3.1\Mario Kart Item Box.csprojAssemblyReference.cache
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\obj\Debug\netcoreapp3.1\Mario Kart Item Box.AssemblyInfoInputs.cache
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\obj\Debug\netcoreapp3.1\Mario Kart Item Box.AssemblyInfo.cs
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\obj\Debug\netcoreapp3.1\Mario Kart Item Box.csproj.CoreCompileInputs.cache
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\obj\Debug\netcoreapp3.1\Mario Kart Item Box.dll
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\obj\Debug\netcoreapp3.1\Mario Kart Item Box.pdb
+C:\Users\shriv\source\repos\Mario Kart Item Box\Mario Kart Item Box\obj\Debug\netcoreapp3.1\Mario Kart Item Box.genruntimeconfig.cache

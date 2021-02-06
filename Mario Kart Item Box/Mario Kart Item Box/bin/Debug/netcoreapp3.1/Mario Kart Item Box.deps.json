@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Mario Kart Item Box/1.0.0": {
+        "runtime": {
+          "Mario Kart Item Box.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Mario Kart Item Box/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
